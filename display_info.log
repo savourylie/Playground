@@ -1,0 +1,6 @@
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('Mike', 48), and kwargs: {}
+INFO:root:Ran with args: ('Mike', 48), and kwargs: {}
+INFO:root:Ran with args: ('Mike', 48), and kwargs: {}
+INFO:root:Ran with args: ('Jose', 18), and kwargs: {}
+INFO:root:Ran with args: ('Picard', 68), and kwargs: {}

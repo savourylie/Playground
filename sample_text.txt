@@ -1,0 +1,10 @@
+image_path1 label_path1 0
+image_path2 label_path2 1
+image_path3 label_path3 0
+image_path4 label_path4 0
+image_path5 label_path5 1
+image_path6 label_path6 1
+image_path7 label_path7 1
+image_path8 label_path8 1
+image_path9 label_path9 0
+image_path10 label_path10 1
